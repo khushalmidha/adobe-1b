@@ -1,0 +1,6 @@
+PyMuPDF
+scikit-learn
+numpy
+reportlab
+sentence-transformers
+torch
